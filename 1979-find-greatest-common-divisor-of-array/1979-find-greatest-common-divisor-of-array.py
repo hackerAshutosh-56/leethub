@@ -1,8 +1,10 @@
 class Solution:
-    def gcd(self, a, b):
-        if a == 0:
-            return b
-        return self.gcd(b % a, a)
-
     def findGCD(self, nums):
-        return self.gcd(min(nums), max(nums))
+        def gcd(a,b):
+            if (b%a==0):
+                return a
+            else:
+                return gcd(b%a,a)
+        a=min(nums)
+        b=max(nums)
+        return  gcd(a,b)
