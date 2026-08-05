@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/hackerAshutosh-56/leethub/tree/master/0016-3sum-closest) |
 | [0486-predict-the-winner](https://github.com/hackerAshutosh-56/leethub/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/hackerAshutosh-56/leethub/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/hackerAshutosh-56/leethub/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hackerAshutosh-56/leethub/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/hackerAshutosh-56/leethub/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hackerAshutosh-56/leethub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/hackerAshutosh-56/leethub/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/hackerAshutosh-56/leethub/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/hackerAshutosh-56/leethub/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/hackerAshutosh-56/leethub/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/hackerAshutosh-56/leethub/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hackerAshutosh-56/leethub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/hackerAshutosh-56/leethub/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/hackerAshutosh-56/leethub/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/hackerAshutosh-56/leethub/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hackerAshutosh-56/leethub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
