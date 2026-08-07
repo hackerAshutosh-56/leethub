@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/hackerAshutosh-56/leethub/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/hackerAshutosh-56/leethub/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hackerAshutosh-56/leethub/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hackerAshutosh-56/leethub/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/hackerAshutosh-56/leethub/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/hackerAshutosh-56/leethub/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
