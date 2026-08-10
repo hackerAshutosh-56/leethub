@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/hackerAshutosh-56/leethub/tree/master/0016-3sum-closest) |
+| [0039-combination-sum](https://github.com/hackerAshutosh-56/leethub/tree/master/0039-combination-sum) |
 | [0088-merge-sorted-array](https://github.com/hackerAshutosh-56/leethub/tree/master/0088-merge-sorted-array) |
 | [0486-predict-the-winner](https://github.com/hackerAshutosh-56/leethub/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/hackerAshutosh-56/leethub/tree/master/0496-next-greater-element-i) |
@@ -203,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/hackerAshutosh-56/leethub/tree/master/0912-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/hackerAshutosh-56/leethub/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
