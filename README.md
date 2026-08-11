@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/hackerAshutosh-56/leethub/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/hackerAshutosh-56/leethub/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/hackerAshutosh-56/leethub/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/hackerAshutosh-56/leethub/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/hackerAshutosh-56/leethub/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/hackerAshutosh-56/leethub/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/hackerAshutosh-56/leethub/tree/master/0090-subsets-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/hackerAshutosh-56/leethub/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/hackerAshutosh-56/leethub/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/hackerAshutosh-56/leethub/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hackerAshutosh-56/leethub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/hackerAshutosh-56/leethub/tree/master/0912-sort-an-array) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/hackerAshutosh-56/leethub/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/hackerAshutosh-56/leethub/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/hackerAshutosh-56/leethub/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/hackerAshutosh-56/leethub/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/hackerAshutosh-56/leethub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hackerAshutosh-56/leethub/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
