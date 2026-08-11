@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/hackerAshutosh-56/leethub/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/hackerAshutosh-56/leethub/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/hackerAshutosh-56/leethub/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/hackerAshutosh-56/leethub/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/hackerAshutosh-56/leethub/tree/master/0088-merge-sorted-array) |
 | [0486-predict-the-winner](https://github.com/hackerAshutosh-56/leethub/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/hackerAshutosh-56/leethub/tree/master/0496-next-greater-element-i) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/hackerAshutosh-56/leethub/tree/master/0078-subsets) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/hackerAshutosh-56/leethub/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -212,4 +214,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/hackerAshutosh-56/leethub/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/hackerAshutosh-56/leethub/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/hackerAshutosh-56/leethub/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/hackerAshutosh-56/leethub/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
