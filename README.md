@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/hackerAshutosh-56/leethub/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/hackerAshutosh-56/leethub/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/hackerAshutosh-56/leethub/tree/master/0509-fibonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/hackerAshutosh-56/leethub/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hackerAshutosh-56/leethub/tree/master/0020-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/hackerAshutosh-56/leethub/tree/master/0131-palindrome-partitioning) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hackerAshutosh-56/leethub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hackerAshutosh-56/leethub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/hackerAshutosh-56/leethub/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/hackerAshutosh-56/leethub/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/hackerAshutosh-56/leethub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hackerAshutosh-56/leethub/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/hackerAshutosh-56/leethub/tree/master/0131-palindrome-partitioning) |
 ## Algorithm X
 |  |
 | ------- |
