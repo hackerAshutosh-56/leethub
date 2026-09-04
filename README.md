@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/hackerAshutosh-56/leethub/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/hackerAshutosh-56/leethub/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/hackerAshutosh-56/leethub/tree/master/0257-binary-tree-paths) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hackerAshutosh-56/leethub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hackerAshutosh-56/leethub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/hackerAshutosh-56/leethub/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/hackerAshutosh-56/leethub/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/hackerAshutosh-56/leethub/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/hackerAshutosh-56/leethub/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/hackerAshutosh-56/leethub/tree/master/0257-binary-tree-paths) |
 ## Algorithm X
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/hackerAshutosh-56/leethub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/hackerAshutosh-56/leethub/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0572-subtree-of-another-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/hackerAshutosh-56/leethub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/hackerAshutosh-56/leethub/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0572-subtree-of-another-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/hackerAshutosh-56/leethub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/hackerAshutosh-56/leethub/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0572-subtree-of-another-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
