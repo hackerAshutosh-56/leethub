@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/hackerAshutosh-56/leethub/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/hackerAshutosh-56/leethub/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/hackerAshutosh-56/leethub/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hackerAshutosh-56/leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0486-predict-the-winner](https://github.com/hackerAshutosh-56/leethub/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/hackerAshutosh-56/leethub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hackerAshutosh-56/leethub/tree/master/0503-next-greater-element-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hackerAshutosh-56/leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/hackerAshutosh-56/leethub/tree/master/0496-next-greater-element-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/hackerAshutosh-56/leethub/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/hackerAshutosh-56/leethub/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hackerAshutosh-56/leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0912-sort-an-array](https://github.com/hackerAshutosh-56/leethub/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/hackerAshutosh-56/leethub/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hackerAshutosh-56/leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/hackerAshutosh-56/leethub/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/hackerAshutosh-56/leethub/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hackerAshutosh-56/leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/hackerAshutosh-56/leethub/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0111-minimum-depth-of-binary-tree) |
