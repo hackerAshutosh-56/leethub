@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/hackerAshutosh-56/leethub/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/hackerAshutosh-56/leethub/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0662-maximum-width-of-binary-tree) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/hackerAshutosh-56/leethub/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/hackerAshutosh-56/leethub/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0662-maximum-width-of-binary-tree) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/hackerAshutosh-56/leethub/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/hackerAshutosh-56/leethub/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0662-maximum-width-of-binary-tree) |
@@ -368,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/hackerAshutosh-56/leethub/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/hackerAshutosh-56/leethub/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/hackerAshutosh-56/leethub/tree/master/1757-recyclable-and-low-fat-products) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
