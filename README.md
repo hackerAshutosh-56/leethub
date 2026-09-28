@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/hackerAshutosh-56/leethub/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/hackerAshutosh-56/leethub/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0993-cousins-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hackerAshutosh-56/leethub/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/hackerAshutosh-56/leethub/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/hackerAshutosh-56/leethub/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0993-cousins-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hackerAshutosh-56/leethub/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/hackerAshutosh-56/leethub/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/hackerAshutosh-56/leethub/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0993-cousins-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hackerAshutosh-56/leethub/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/hackerAshutosh-56/leethub/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/hackerAshutosh-56/leethub/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/hackerAshutosh-56/leethub/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0993-cousins-in-binary-tree) |
 ## String Matching
 |  |
@@ -405,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/hackerAshutosh-56/leethub/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Geometry
 |  |
 | ------- |
