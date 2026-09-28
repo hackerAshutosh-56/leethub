@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/hackerAshutosh-56/leethub/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/hackerAshutosh-56/leethub/tree/master/0257-binary-tree-paths) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hackerAshutosh-56/leethub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hackerAshutosh-56/leethub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hackerAshutosh-56/leethub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/hackerAshutosh-56/leethub/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/hackerAshutosh-56/leethub/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/hackerAshutosh-56/leethub/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/hackerAshutosh-56/leethub/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hackerAshutosh-56/leethub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hackerAshutosh-56/leethub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/hackerAshutosh-56/leethub/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hackerAshutosh-56/leethub/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hackerAshutosh-56/leethub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
