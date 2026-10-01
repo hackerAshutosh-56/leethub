@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/hackerAshutosh-56/leethub/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hackerAshutosh-56/leethub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/hackerAshutosh-56/leethub/tree/master/0912-sort-an-array) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/hackerAshutosh-56/leethub/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hackerAshutosh-56/leethub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hackerAshutosh-56/leethub/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/hackerAshutosh-56/leethub/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hackerAshutosh-56/leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/hackerAshutosh-56/leethub/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hackerAshutosh-56/leethub/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Depth-First Search
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/hackerAshutosh-56/leethub/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0993-cousins-in-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/hackerAshutosh-56/leethub/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hackerAshutosh-56/leethub/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/hackerAshutosh-56/leethub/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hackerAshutosh-56/leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/hackerAshutosh-56/leethub/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hackerAshutosh-56/leethub/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/hackerAshutosh-56/leethub/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/hackerAshutosh-56/leethub/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hackerAshutosh-56/leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/hackerAshutosh-56/leethub/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Geometry
 |  |
 | ------- |
